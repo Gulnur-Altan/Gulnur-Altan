@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gülnur Altan 🦹‍♀️ </h1>
 
-<h3 align="center"> ☁️ I am a Cloud Native Developer from Turkey 🌍</h3>
+<h3 align="center"> ☁️ I am a Full Stack Developer from Turkey 🌍</h3>
 
 - 🔭 I’m currently working on [Türk Telekom](https://www.turktelekom.com.tr/)
 
-- 🌱 I’m currently learning **Golang, Kubernetes and Cloud Platforms**
+- 🌱 I’m currently learning **Angular,React,Golang and Cloud Platforms**
 
 - 🖥️ I'm contributing on platform [BulutBilişimciler](https://bulutbilisimciler.com/)
 
 - 📝 I am writing articles on [https://medium.com/@g.altan.altan](https://medium.com/@g.altan.altan)
+  
+- 💬 Everyday I'm learning something new from [https://dev.to/](https://dev.to/glnurltn)
 
 - 📫 How to reach me **g.altan.altan@gmail.com**
 
