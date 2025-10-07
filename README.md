@@ -2,14 +2,14 @@
 <h3 align="center">☁️ Full Stack Developer from Turkey 🌍</h3>
 
 <p align="center">
-  <a href="https://github.com/glnurltn">
-    <img src="https://komarev.com/ghpvc/?username=glnurltn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Gulnur-Altan">
+    <img src="https://komarev.com/ghpvc/?username=Gulnur-Altan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/glnurltn?tab=followers">
-    <img src="https://img.shields.io/github/followers/glnurltn?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <a href="https://github.com/Gulnur-Altan?tab=followers">
+    <img src="https://img.shields.io/github/followers/gulnur-altan?label=Followers&style=flat&color=0e75b6" alt="followers" />
   </a>
-  <a href="https://github.com/glnurltn?tab=repositories">
-    <img src="https://img.shields.io/github/stars/glnurltn?label=Stars&style=flat&color=ffb400" alt="stars" />
+  <a href="https://github.com/Gulnur-Altan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Gulnur-Altan?label=Stars&style=flat&color=ffb400" alt="stars" />
   </a>
 </p>
 
