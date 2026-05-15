@@ -85,5 +85,12 @@
 </p>
 
 ---
+<h3 align="left">🎊 Dev Community Badges</h2>
+<p align="left"> 
+    <a href="https://dev.to/glnurltn"><img src="images/badge1.webp" alt="gulnur" width="45" height="45"/></a>
+    <a href="https://dev.to/glnurltn"><img src="images/badge2.webp" alt="gulnur" width="45" height="45"/></a>
+    <a href="https://dev.to/glnurltn"><img src="images/badge3.webp" alt="gulnur" width="45" height="45"/></a>
+    <a href="https://dev.to/glnurltn"><img src="images/badge4.webp" alt="gulnur" width="45" height="45"/></a>
+</p>
 
 ✨ *“Code. Learn. Share. Repeat.”* ✨
