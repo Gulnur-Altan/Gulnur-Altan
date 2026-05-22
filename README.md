@@ -18,9 +18,9 @@
 <img align="right" alt="Coding" width="180" 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNreXdta3llY2syNnFlZGRmejczeWNtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HOiAe2wA8RftbE59dc/giphy.gif"/>
 
-* 🔭 Currently working at [Türk Telekom](https://www.turktelekom.com.tr/)
+* 🔭 Currently working at [Türk Telekom](https://www.turktelekom.com.tr/en)
 * 🌱 Learning **Angular, React, Golang, and Cloud Platforms**
-* 🖥️ Contributing to [BulutBilişimciler](https://bulutbilisimciler.com/)
+* 🖥️ Contributing to [BulutBilisimciler](https://bulutbilisimciler.com/en)
 * 📝 Writing on [Medium](https://medium.com/@g.altan.altan) about tech and ideas
 * 💬 Sharing thoughts on [Dev.to](https://dev.to/glnurltn)
 * 🎨 Experimenting with creative UI designs on [CodePen](https://codepen.io/G-lnur-ALTAN)
