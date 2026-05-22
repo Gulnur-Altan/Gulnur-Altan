@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="200" 
+<img align="right" alt="Coding" width="180" 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNreXdta3llY2syNnFlZGRmejczeWNtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HOiAe2wA8RftbE59dc/giphy.gif"/>
 
 * 🔭 Currently working at [Türk Telekom](https://www.turktelekom.com.tr/)
