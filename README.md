@@ -15,14 +15,16 @@
 
 ---
 
+<img align="right" alt="Coding" width="200" 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNreXdta3llY2syNnFlZGRmejczeWNtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HOiAe2wA8RftbE59dc/giphy.gif"/>
+
 * 🔭 Currently working at [Türk Telekom](https://www.turktelekom.com.tr/)
 * 🌱 Learning **Angular, React, Golang, and Cloud Platforms**
 * 🖥️ Contributing to [BulutBilişimciler](https://bulutbilisimciler.com/)
-* 📝 Writing on [**Medium**](https://medium.com/@g.altan.altan) about tech and ideas
-* 💬 Sharing thoughts on [**Dev.to**](https://dev.to/glnurltn)
-* 🎨 Experimenting with creative UI designs on [**CodePen**](https://codepen.io/G-lnur-ALTAN)
-* 📫 Reach me at **[g.altan.altan@gmail.com](mailto:g.altan.altan@gmail.com)**
-
+* 📝 Writing on [Medium](https://medium.com/@g.altan.altan) about tech and ideas
+* 💬 Sharing thoughts on [Dev.to](https://dev.to/glnurltn)
+* 🎨 Experimenting with creative UI designs on [CodePen](https://codepen.io/G-lnur-ALTAN)
+* 📫 Reach me at **g.altan.altan@gmail.com**
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -98,5 +100,7 @@
 <p align="left"> 
 <a href="https://app.daily.dev/glnuraltan"><img src="https://api.daily.dev/devcards/v2/oWSQ0Jmf4ilvzL7qaO6xg.png?type=wide&r=d5z" width="450" alt="Gulnur Kozak's Dev Card"/></a>
 </p>
+
+---
 
 ✨ *“Code. Learn. Share. Repeat.”* ✨
