@@ -93,4 +93,10 @@
     <a href="https://dev.to/glnurltn"><img src="images/badge4.webp" alt="gulnur" width="45" height="45"/></a>
 </p>
 
+---
+<h3 align="left">🂱 DevCard</h2>
+<p align="left"> 
+<a href="https://app.daily.dev/glnuraltan"><img src="https://api.daily.dev/devcards/v2/oWSQ0Jmf4ilvzL7qaO6xg.png?type=wide&r=d5z" width="652" alt="Gulnur Kozak's Dev Card"/></a>
+</p>
+
 ✨ *“Code. Learn. Share. Repeat.”* ✨
