@@ -22,7 +22,6 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNre
 * 🌱 Learning **Angular, React, Golang, and Cloud Platforms**
 * 🖥️ Contributing to [BulutBilisimciler](https://bulutbilisimciler.com/en)
 * 📝 Writing on [Medium](https://medium.com/@g.altan.altan) about tech and ideas
-* 💬 Sharing thoughts on [Dev.to](https://dev.to/glnurltn)
 * 🎨 Experimenting with creative UI designs on [CodePen](https://codepen.io/G-lnur-ALTAN)
 * 📫 Reach me at **g.altan.altan@gmail.com**
 ---
