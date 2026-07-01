@@ -99,7 +99,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNre
 <p align="left"> 
 <a href="https://app.daily.dev/glnuraltan"><img src="https://api.daily.dev/devcards/v2/oWSQ0Jmf4ilvzL7qaO6xg.png?type=wide&r=d5z" width="450" alt="Gulnur Kozak's Dev Card"/></a>
 
-<a href="https://daily.dev/glnuraltan"><img src="images/badge5.png" width="50" alt="Gulnur Kozak's Top Reader Badge"/></a>
+<a href="https://daily.dev/glnuraltan"><img src="images/badge5.png" width="150" alt="Gulnur Kozak's Top Reader Badge"/></a>
 </p>
 
 ---
