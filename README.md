@@ -18,10 +18,11 @@
 <img align="right" alt="Coding" width="115" 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNreXdta3llY2syNnFlZGRmejczeWNtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HOiAe2wA8RftbE59dc/giphy.gif"/>
 
-* 🌱 Learning **Angular, React, Golang, and Cloud Platforms**
-* 📝 Writing on [Medium](https://medium.com/@g.altan.altan) about tech and ideas
-* 🎨 Experimenting with creative UI designs on [CodePen](https://codepen.io/G-lnur-ALTAN)
-* 📫 Reach me at **g.altan.altan@gmail.com**
+- 🌱 Learning **Angular, React, Golang, and Cloud Platforms**
+- 📝 Writing on [Medium](https://medium.com/@g.altan.altan) about tech and ideas
+- 🎨 Experimenting with creative UI designs on [CodePen](https://codepen.io/G-lnur-ALTAN)
+- 📫 Reach me at **g.altan.altan@gmail.com**
+
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -84,6 +85,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNre
 </p>
 
 ---
+
 <h3 align="left">🎊 Dev Community Badges</h2>
 <p align="left"> 
     <a href="https://dev.to/glnurltn"><img src="images/badge1.webp" alt="gulnur" width="45" height="45"/></a>
@@ -96,17 +98,19 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNre
     <a href="https://dev.to/glnurltn"><img src="images/badge8.webp" alt="gulnur" width="45" height="45"/></a>
     <a href="https://dev.to/glnurltn"><img src="images/badge9.webp" alt="gulnur" width="45" height="45"/></a>
     <a href="https://dev.to/glnurltn"><img src="images/badge10.webp" alt="gulnur" width="45" height="45"/></a>
+    <a href="https://dev.to/glnurltn"><img src="images/badge11.webp" alt="gulnur" width="45" height="45"/></a>
 </p>
 
 ---
+
 <h3 align="left">🂱 DevCard</h2>
 <p align="left"> 
 <a href="https://app.daily.dev/glnuraltan"><img src="https://api.daily.dev/devcards/v2/oWSQ0Jmf4ilvzL7qaO6xg.png?type=wide&r=d5z" width="450" alt="Gulnur Kozak's Dev Card"/></a>
 
 <a href="https://daily.dev/glnuraltan"><img src="images/badgeCard1.png" width="150" alt="Gulnur Kozak's Top Reader Badge"/></a>
+
 </p>
 
 ---
 
 [![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Code%2520%3BLearn%3BShare%3BRepeat%2520%25E2%259C%25A8%2520&width=400&height=80&font=Source+Code+Pro&size=20&letterSpacing=1&theme=nord&gradient=a4eae9%2Cc787cf&gradientAngle=84&cursorColor=945cc1)](https://github.com/dhanushnehru/ScribeSVG)
-
