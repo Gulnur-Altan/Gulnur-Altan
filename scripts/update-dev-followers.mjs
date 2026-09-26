@@ -51,10 +51,16 @@ const height = 36;
 const step = 3;
 const horizontalPadding = 18;
 const approximateCharacterWidth = 7.2;
+
 const width = Math.max(
   160,
-  Math.ceil(label.length * approximateCharacterWidth + horizontalPadding * 2),
+  Math.ceil(
+    label.length * approximateCharacterWidth + horizontalPadding * 2,
+  ),
 );
+
+// Badge color
+const badgeColor = "#A78BFA";
 
 const shellPoints = [
   [step * 3, 0],
@@ -108,12 +114,12 @@ const escapeXml = (value) =>
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="${escapeXml(label)}">
   <title>${escapeXml(label)}</title>
-  <polygon points="${shellPoints}" fill="#7caa4a" shape-rendering="crispEdges"/>
+  <polygon points="${shellPoints}" fill="${badgeColor}" shape-rendering="crispEdges"/>
   <polygon points="${fillPoints}" fill="#000000" shape-rendering="crispEdges"/>
   <text
     x="${width / 2}"
     y="${height / 2 + 0.5}"
-    fill="#7caa4a"
+    fill="${badgeColor}"
     font-family="system-ui,-apple-system,'Segoe UI',sans-serif"
     font-size="13"
     font-weight="700"
@@ -144,14 +150,21 @@ if (currentSvg !== svg) {
 }
 
 const readme = await readFile(readmePath, "utf8");
-const badgeSourcePattern = /(\.\/assets\/dev-followers\.svg)(?:\?v=\d+)?/;
-const versionedBadgeSource = `./assets/dev-followers.svg?v=${followerCount}`;
+
+const badgeSourcePattern =
+  /(\.\/assets\/dev-followers\.svg)(?:\?v=\d+)?/;
+
+const versionedBadgeSource =
+  `./assets/dev-followers.svg?v=${followerCount}`;
 
 if (!badgeSourcePattern.test(readme)) {
   throw new Error("DEV follower badge reference was not found in README.md.");
 }
 
-const nextReadme = readme.replace(badgeSourcePattern, versionedBadgeSource);
+const nextReadme = readme.replace(
+  badgeSourcePattern,
+  versionedBadgeSource,
+);
 
 if (nextReadme !== readme) {
   await writeFile(readmePath, nextReadme);
