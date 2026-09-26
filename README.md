@@ -11,8 +11,9 @@
   <a href="https://github.com/Gulnur-Altan?tab=repositories">
     <img src="https://img.shields.io/github/stars/Gulnur-Altan?label=Stars&style=flat&color=ffb400" alt="stars" />
   </a>
-
-  <a href="https://dev.to/glnurltn">
+</p>
+<p align="center">
+ <a href="https://dev.to/glnurltn">
     <img
       src="./assets/dev-followers.svg?v=598"
       alt="DEV.to followers"
