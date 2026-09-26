@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="36" viewBox="0 0 209 36" role="img" aria-label="DEV.to  ·  598 followers">
+  <title>DEV.to  ·  598 followers</title>
+  <polygon points="9,0 200,0 200,3 203,3 203,6 206,6 206,30 203,30 203,33 200,33 200,36 9,36 9,33 6,33 6,30 3,30 3,6 6,6 6,3 9,3" fill="#7caa4a" shape-rendering="crispEdges"/>
+  <polygon points="9,3 200,3 200,6 203,6 203,30 200,30 200,33 9,33 9,30 6,30 6,6 9,6" fill="#000000" shape-rendering="crispEdges"/>
+  <text
+    x="104.5"
+    y="18.5"
+    fill="#7caa4a"
+    font-family="system-ui,-apple-system,'Segoe UI',sans-serif"
+    font-size="13"
+    font-weight="700"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >DEV.to  ·  598 followers</text>
+</svg>
