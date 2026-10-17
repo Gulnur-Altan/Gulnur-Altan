@@ -108,6 +108,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNre
     <a href="https://dev.to/glnurltn"><img src="images/badge10.webp" alt="gulnur" width="45" height="45"/></a>
     <a href="https://dev.to/glnurltn"><img src="images/badge11.webp" alt="gulnur" width="45" height="45"/></a>
     <a href="https://dev.to/glnurltn"><img src="images/badge12.webp" alt="gulnur" width="45" height="45"/></a>
+    <a href="https://dev.to/glnurltn"><img src="images/badge13.webp" alt="gulnur" width="45" height="45"/></a>
 
 </p>
 
