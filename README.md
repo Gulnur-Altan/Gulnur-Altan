@@ -15,7 +15,7 @@
 <p align="center">
  <a href="https://dev.to/glnurltn">
     <img
-      src="./assets/dev-followers.svg?v=606"
+      src="./assets/dev-followers.svg?v=605"
       alt="DEV.to followers"
     />
   </a>
