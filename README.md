@@ -127,4 +127,4 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNre
 
 ---
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Code%2520%3BLearn%3BShare%3BRepeat%2520%25E2%259C%25A8%2520&width=400&height=80&font=Source+Code+Pro&size=20&letterSpacing=1&theme=nord&gradient=a4eae9%2Cc787cf&gradientAngle=84&cursorColor=945cc1)](https://github.com/dhanushnehru/ScribeSVG)
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Code%3BLearn%3BShare%3BRepeat&width=400&height=80&font=Comfortaa&size=20&layout=card&theme=tokyonight&gradient=7abcff%2Cbb9af7&cursorColor=ff9e64)](https://github.com/dhanushnehru/ScribeSVG)
