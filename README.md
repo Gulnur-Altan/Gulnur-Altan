@@ -27,9 +27,11 @@
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNreXdta3llY2syNnFlZGRmejczeWNtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HOiAe2wA8RftbE59dc/giphy.gif"/>
 
 - 🌱 Learning **Angular, React, Golang, and Cloud Platforms**
-- 📝 Writing on [Medium](https://medium.com/@g.altan.altan) about tech and ideas
+- 📝 Sharing my thoughts, experiences, and technical insights across [Medium](https://medium.com/@g.altan.altan), [DEV Community](https://dev.to/glnurltn), [daily.dev](https://daily.dev/glnuraltan), and [CoderLegion](https://coderlegion.com/user/glnr)
 - 🎨 Experimenting with creative UI designs on [CodePen](https://codepen.io/G-lnur-ALTAN)
+- 💻 Building projects and exploring new technologies
 - 📫 Reach me at **g.altan.altan@gmail.com**
+- 🚀 Check out my latest projects, articles, and contributions!
 
 ---
 
