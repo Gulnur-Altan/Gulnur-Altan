@@ -57,20 +57,6 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh2N2tmdDN3YjNmcG8wMjNre
 
 ---
 
-<h3 align="left">🚀 Check out my CoderLegion profile & latest post</h3>
-
-<p align="left">
-
-🏆 **Points:** 1k &nbsp;|&nbsp; 🎱 **Badges:** 16 &nbsp;|&nbsp; 👥 **Followers:** 6 &nbsp;|&nbsp; 📄 **Posts:** 4
-
-Latest post: [PHP Security in 2026: Understanding Two Critical Remote Code Execution Vulnerabilities](https://coderlegion.com/33504/php-security-in-2026-understanding-two-critical-remote-code-execution-vulnerabilities)
-
-🔗 View my full profile: [CoderLegion](https://coderlegion.com/user/glnr)
-
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -138,6 +124,16 @@ Latest post: [PHP Security in 2026: Understanding Two Critical Remote Code Execu
 
 <a href="https://daily.dev/glnuraltan"><img src="images/badgeCard1.png" width="150" alt="Gulnur Kozak's Top Reader Badge"/></a>
 <a href="https://daily.dev/glnuraltan"><img src="images/badgeCard2.png" width="150" alt="Gulnur Kozak's Top Reader Badge"/></a>
+
+</p>
+
+---
+
+<h3 align="left">🚀 CoderLegion Card</h3>
+
+<p align="left">
+
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/glnr.svg)](https://coderlegion.com/user/glnr)
 
 </p>
 
